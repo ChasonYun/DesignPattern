@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "..\Templ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "..\VisitorPattern\VisitorPattern.csproj", "{DF37756B-E8CE-42FD-85F4-D1BD69E1CE3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuliderPattern", "..\BuliderPattern\BuliderPattern.csproj", "{741A4013-3344-4590-8229-93C3C3EEA6BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF37756B-E8CE-42FD-85F4-D1BD69E1CE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF37756B-E8CE-42FD-85F4-D1BD69E1CE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF37756B-E8CE-42FD-85F4-D1BD69E1CE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741A4013-3344-4590-8229-93C3C3EEA6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741A4013-3344-4590-8229-93C3C3EEA6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741A4013-3344-4590-8229-93C3C3EEA6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741A4013-3344-4590-8229-93C3C3EEA6BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
